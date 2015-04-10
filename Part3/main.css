@@ -1,0 +1,27 @@
+
+.button-wrapper {
+	width: 100%;
+    vertical-align: middle;
+}
+
+.bab {
+	vertical-align: center;
+	width: 20%;
+	height: 20%;
+	position: fixed;
+	margin: 40%;
+	margin-top:20%;
+}
+
+
+
+
+.pop{
+	
+	width: 30%;
+	height: 30%;
+	position: fixed;
+	margin: 35%;
+	margin-top:20%;
+}
+}
